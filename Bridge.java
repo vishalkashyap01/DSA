@@ -4,7 +4,10 @@ class Bridge{
     public static void main(String []vtl){
         Scanner sc = new Scanner(System.in);
 
-        char []blocks = new char[5];
+        System.out.println("Enter the length of bridge : ");
+        int sizeOfBridge = sc.nextInt();
+        
+        char []blocks = new char[sizeOfbridge];
         Boolean safe = false;
         int bridgeBlock = 0;
 
