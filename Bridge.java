@@ -6,7 +6,8 @@ class Bridge{
 
         System.out.println("Enter the length of bridge : ");
         int sizeOfBridge = sc.nextInt();
-        
+
+        //intial character array to store blocks of bridge & boolean too
         char []blocks = new char[sizeOfbridge];
         Boolean safe = false;
         int bridgeBlock = 0;
