@@ -9,3 +9,6 @@ This Java program simulates journey notifications by calculating and displaying 
 
 # Expenses.java
 An expenses calculator helps track and manage spending across various categories like groceries, utilities, entertainment, etc. It calculates total expenditures and compares them against set budgets. Suggestions based on budget can include tips to save, allocate funds wisely, or adjust spending habits to meet financial goals effectively.
+
+# Bubble.java
+here, this file i solove the bubble sorting through java language and it's basic sorting technique which have Big O(n^2) times.
