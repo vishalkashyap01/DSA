@@ -12,3 +12,11 @@ An expenses calculator helps track and manage spending across various categories
 
 # Bubble.java
 here, this file i solove the bubble sorting through java language and it's basic sorting technique which have Big O(n^2) times.
+
+# Bit.java
+Add bit manipulation methods with user choice
+- Implemented methods for bit manipulation: getBit, setBit, clearBit, and updateBit.
+- Added a user menu in the main method to choose which bit manipulation operation to perform.
+- Used a switch statement to call the appropriate method based on user input.
+- Included input validation and error handling for invalid choices.
+- Ensured Scanner objects are properly closed after use.
