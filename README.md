@@ -20,3 +20,7 @@ Add bit manipulation methods with user choice
 - Used a switch statement to call the appropriate method based on user input.
 - Included input validation and error handling for invalid choices.
 - Ensured Scanner objects are properly closed after use.
+
+# Warmup.java
+This Java program simulates the switch keyword to practice set of java refesher for the do code to check their output and varify it.
+for run in terminal.
