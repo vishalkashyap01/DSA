@@ -27,3 +27,6 @@ Add bit manipulation methods with user choice
 # Warmup.java
 This Java program simulates the switch keyword to practice set of java refesher for the do code to check their output and varify it.
 for run in terminal.
+
+# Array.java
+In Array.java file, i create seperate class named Reverse to reverse the static array through call by object in main method.
