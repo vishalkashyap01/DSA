@@ -31,3 +31,4 @@ for run in terminal.
 # Array.java
 - In Array.java file, i create seperate class named Reverse to reverse the static array through call by object in main method.
 - add MaxMinElement class by which i implement seaching to get the maximum and minimum value from the array & call by object named mm.
+- Add new kthElement class, to solve the Kth element maxximum or minimum value saerching by class and object too.
