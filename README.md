@@ -32,3 +32,6 @@ for run in terminal.
 - In Array.java file, i create seperate class named Reverse to reverse the static array through call by object in main method.
 - add MaxMinElement class by which i implement seaching to get the maximum and minimum value from the array & call by object named mm.
 - Add new kthElement class, to solve the Kth element maxximum or minimum value saerching by class and object too.
+
+# PlaceValue.java
+This Java program prompts the user to enter a number and a digit, then determines the place value of the specified digit within the number. It extracts each digit from the number, starting from the least significant digit, and stores them in an array. The program then checks each digit against the specified digit, calculates its place value (such as units, tens, hundreds), and prints the result. If the digit is not found, the program notifies the user accordingly.
