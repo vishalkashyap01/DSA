@@ -35,3 +35,6 @@ for run in terminal.
 
 # PlaceValue.java
 This Java program prompts the user to enter a number and a digit, then determines the place value of the specified digit within the number. It extracts each digit from the number, starting from the least significant digit, and stores them in an array. The program then checks each digit against the specified digit, calculates its place value (such as units, tens, hundreds), and prints the result. If the digit is not found, the program notifies the user accordingly.
+
+# PaindromeString.java
+In this code, i create a program to solve the to check the entered dtring is palindomen or not.
